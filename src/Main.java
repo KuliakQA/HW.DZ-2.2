@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int deposit = 100;
-        int putMany = 1100;
+        int deposit = 100;  // счёт клиента
+        int putMany = 1100;   // пополнил счёт на сумму
 
         int percent;
         if (putMany >= 1000) {
